@@ -5,5 +5,3 @@ haxe:
   - "4.1.4"
   - stable      # the latest stable release defined in https://haxe.org/download/list/
   - development # the latest build of the development branch in http://build.haxe.org/
-hxml:
-  - build.hxml
